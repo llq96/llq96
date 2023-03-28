@@ -1,4 +1,14 @@
-### Hi there 👋
+Резюме: https://hh.ru/applicant/resumes/view?resume=5e5bc475ff08f9f74f0039ed1f7466314b5350 
+
+
+
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+[![codewars](https://www.codewars.com/users/llq96/badges/small)](https://www.codewars.com/users/llq96)
 
 <!--
 **llq96/llq96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
