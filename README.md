@@ -1,7 +1,4 @@
-Резюме: https://hh.ru/applicant/resumes/view?resume=5e5bc475ff08f9f74f0039ed1f7466314b5350 
-
-
-
+Резюме: https://hh.ru/resume/dc0da2d4ff0d75ee450039ed1f63726775484a
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
